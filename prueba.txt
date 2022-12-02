@@ -1,1 +1,2 @@
 hola, probando por primera vez git
+probando cambios en master y cabecera y luego merge
