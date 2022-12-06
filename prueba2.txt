@@ -1,1 +1,2 @@
 sumando cambios para usar commit estando en unstaged area
+Probando cambios en prueba2.txt para llevarlos a github
